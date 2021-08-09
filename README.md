@@ -1,1 +1,3 @@
-# Auth boilerplate for the backend [supabase-nest-auth](https://github.com/mihaiandrei97/supabase-nest-auth)
+# Auth boilerplate 
+
+Backend: [supabase-nest-auth](https://github.com/mihaiandrei97/supabase-nest-auth)
